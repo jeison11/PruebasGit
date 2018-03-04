@@ -16,6 +16,8 @@ public class Principal {
         int i=0;
         if(i<1){
         System.out.println("Cambio de la rama Jeison");
+        
+            System.out.println("Estamos en master");
     }
         
     }
