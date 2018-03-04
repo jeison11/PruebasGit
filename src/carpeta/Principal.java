@@ -13,7 +13,10 @@ public class Principal {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         System.out.println("Y Messi es mejor que penaldo");
+        int i=0;
+        if(i<1){
         System.out.println("Cambio de la rama Jeison");
+    }
         
     }
     
